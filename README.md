@@ -35,7 +35,7 @@
 
 ## 다운로드
 
-- Windows 설치 파일: [GitHub 릴리스 목록](https://github.com/Hansihoo/POE-BOTTARI-Releases/releases)
+- Windows 설치 파일: [GitHub 릴리스 목록](https://github.com/seeyouworks/POE-BOTTARI-Releases/releases)
 - Chrome 확장프로그램: [Chrome Web Store 항목](https://chromewebstore.google.com/detail/hdgedfadfonijbdlnonhhapamhnhebil)
 
 이 저장소에는 제품 소스 코드가 아니라 공식 설치 파일, 체크섬, 릴리스 안내, 개인정보처리방침과 지원 문서만 게시합니다.
@@ -62,7 +62,7 @@
 
 ## 지원
 
-재현 가능한 오류와 릴리스 문의는 [GitHub Issues](https://github.com/Hansihoo/POE-BOTTARI-Releases/issues)에 남겨주세요. 계정 비밀번호, 쿠키, POESESSID, OAuth 토큰, 비공개 빌드 파일은 첨부하지 마세요.
+재현 가능한 오류와 릴리스 문의는 [GitHub Issues](https://github.com/seeyouworks/POE-BOTTARI-Releases/issues)에 남겨주세요. 계정 비밀번호, 쿠키, POESESSID, OAuth 토큰, 비공개 빌드 파일은 첨부하지 마세요.
 
 ---
 
@@ -70,4 +70,4 @@
 
 POE BOTTARI is an unofficial Windows companion for Path of Exile. It manages PoB1/PoB2 workflows, game shortcuts, trade-item price and build-impact checks, PoE1 crafting experiments, and on-device translation for supported community sites.
 
-Download the latest Windows installer from [GitHub Releases](https://github.com/Hansihoo/POE-BOTTARI-Releases/releases). The community installer is currently unsigned, and the app verifies signed update metadata and installer SHA-256 without automatically executing the downloaded file.
+Download the latest Windows installer from [GitHub Releases](https://github.com/seeyouworks/POE-BOTTARI-Releases/releases). The community installer is currently unsigned, and the app verifies signed update metadata and installer SHA-256 without automatically executing the downloaded file.
